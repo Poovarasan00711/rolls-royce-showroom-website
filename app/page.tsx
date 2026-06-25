@@ -1,5 +1,5 @@
 import { Navbar } from "@/components/navbar"
-import { Hero } from "@/components/hero"
+import {<h1>Rolls-Royce Showroom</h1> Hero } from "@/components/hero"
 import { About } from "@/components/about"
 import { FeaturedCars } from "@/components/featured-cars"
 import { Gallery } from "@/components/gallery"
